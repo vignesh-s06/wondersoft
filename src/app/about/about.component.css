@@ -1,0 +1,85 @@
+.nav-sec {
+    background-color: #07212e;
+  }
+  .bg {
+    background-color: #07212e;
+    opacity: 0.8;
+    height: 400px;
+  }
+  .text1 {
+    padding: 125px 0;
+  }
+  .text1 p {
+    color: #f28123;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    font-size: 15px;
+  }
+  .text1 h1 {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #fff;
+  }
+  .bt .btn-color{
+    border-radius: 50px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #F28123;
+    border: 2px solid #F28123;
+  }
+  .bt .btn-color:hover{
+    background-color: #051922;
+    color: #F28123;
+    border: 2px solid #F28123;
+  
+  }
+  .bt .ct-btn-color{
+    margin-left: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #F28123;
+    background-color: transparent;
+  }
+  .bt .ct-btn-color:hover{
+    background-color: #F28123;
+    color: #fff;
+    border: 2px solid #F28123;
+  }
+
+ 
+  .shop-banner h3{
+      font-size: 37px;
+      color: #F28123;
+  }
+  .sale-percent span{
+      font-size: 25px;
+      font-style: italic;
+  }
+  .sale-percent .percent{
+      color: #F28123;
+      font-size: 30px;
+  }
+  .footer-area{
+    background-color: #051922;
+    height: 300px;
+    color: white;
+}
+.foot-align{
+    list-style-type: none;
+}
+.footer-box h2{
+      font-weight: bolder;
+}
+.foot-align a{
+    color: white
+}
+.banner-about h2{
+    font-size: 37px;
+    color: #F28123;
+}
+.banner-about p{
+    font-size: 20px;
+}
